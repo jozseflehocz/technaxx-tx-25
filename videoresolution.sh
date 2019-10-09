@@ -12,5 +12,5 @@ size="2"
 fi
     echo "videosize:"
 echo $size
-echo $size > /media/jlehocz/LJ4GBFAT/size.txt
+echo $size > size.txt
 exit 0
